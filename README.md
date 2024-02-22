@@ -1,4 +1,4 @@
 # EjemploRealizado
 
 Commit firmado con GPG
-Segundo
+Segundo commit firmado con GPG
